@@ -3,5 +3,4 @@ data
 .env 
 .DS_Store
 ch4ner_practice.ipynb
-kaggle_pii_ner_colab_longfromer.ipynb
 pii_detection copy.ipynb
