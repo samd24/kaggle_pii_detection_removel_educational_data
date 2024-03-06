@@ -2,6 +2,7 @@ articles
 data
 .env 
 .DS_Store
+huggingface_course
 ch4ner_practice.ipynb
 pii_detection copy.ipynb
 tutorial_yt.ipynb
