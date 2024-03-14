@@ -6,3 +6,6 @@ huggingface_course
 ch4ner_practice.ipynb
 pii_detection copy.ipynb
 tutorial_yt.ipynb
+fake_data_generation.ipynb
+
+pii_detection_document_random_remove_o.ipynb
